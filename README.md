@@ -2,7 +2,7 @@
 
 # Hi, I'm Ofek
 
-**Software Developer** · Machine learning, deep learning & systems that ship
+**Software & ML Engineer** · Full-stack, ML/NLP, Android & systems that ship
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ofekfuchs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofek-fuchs-a0713525a)
@@ -13,19 +13,25 @@
 
 ## About me
 
-I build software with a focus on **machine learning** and **deep learning**—RAG, NLP, embeddings, vector databases, and LLMs. I ship end-to-end systems: agents, APIs, and automation, with clear code and documentation. This profile is where I keep my projects; feel free to explore or connect.
+I build **end-to-end software**: ML/NLP systems (RAG, embeddings, LLMs), web apps (Django, Flask, FastAPI + React), and mobile (Android). I care about clear code, good docs, and shipping.  
+
+**Background:** Technion (Information Systems) + Northeastern (Data Science / CS). Coursework and projects in algorithms, distributed systems, databases, statistics (R), and IoT (Android + ESP32).
+
+**Focus areas:** RAG & vector search, NLP, job/career automation, full-stack apps, and clean APIs.
 
 ---
 
 ## Featured projects
 
-### 1. Agent project
+### 1. AI Travel Agent
 
-AI agent / autonomous agent project—one of my main focuses. *(Add your agent repo link here when you’re ready.)*
+**[ai-travel-agent](https://github.com/ofekfuchs/ai-travel-agent)** — AI agent for travel planning: LangChain, Pinecone, FastAPI backend, and frontend. End-to-end agent with retrieval and reasoning.
+
+[![ai-travel-agent](https://github-readme-stats.vercel.app/api/pin/?username=ofekfuchs&repo=ai-travel-agent&theme=default&show_owner=true)](https://github.com/ofekfuchs/ai-travel-agent)
 
 ### 2. TED Talk RAG
 
-**[TED Talk RAG](https://github.com/ofekfuchs/ted-talk-rag)** — RAG-based knowledge base over TED Talks: embeddings, Pinecone vector store, and an LLM to answer questions from the dataset. Flask API + web UI deployed on Vercel.
+**[TED Talk RAG](https://github.com/ofekfuchs/ted-talk-rag)** — RAG over TED Talks: embeddings, Pinecone, LLM Q&A. Flask API + web UI (Vercel).
 
 [![Live demo](https://img.shields.io/badge/demo-Live%20app-0A0A0A?style=for-the-badge&logo=vercel)](https://ted-talk-rag-coral.vercel.app) · [![Repository](https://img.shields.io/badge/code-Repository-0A0A0A?style=for-the-badge&logo=github)](https://github.com/ofekfuchs/ted-talk-rag)
 
@@ -33,9 +39,15 @@ AI agent / autonomous agent project—one of my main focuses. *(Add your agent r
 
 ### 3. LinkedIn DS Scraper
 
-**[linkedin-ds-scraper](https://github.com/ofekfuchs/linkedin-ds-scraper)** — Automated collector for Data Scientist job postings in Israel from LinkedIn. CSV storage, Flask dashboard, and configurable scheduled runs.
+**[linkedin-ds-scraper](https://github.com/ofekfuchs/linkedin-ds-scraper)** — Automated scraper for Data Scientist jobs in Israel. CSV storage, Flask dashboard, configurable runs.
 
 [![linkedin-ds-scraper](https://github-readme-stats.vercel.app/api/pin/?username=ofekfuchs&repo=linkedin-ds-scraper&theme=default&show_owner=true)](https://github.com/ofekfuchs/linkedin-ds-scraper)
+
+---
+
+## More projects
+
+**[→ Portfolio: all big projects](https://github.com/ofekfuchs/portfolio)** — Full-stack (job board + CV with Gemini), Android IoT, Django (Netflix-style, DB), job scrapers, NLP & time series, and more.
 
 ---
 
@@ -43,11 +55,24 @@ AI agent / autonomous agent project—one of my main focuses. *(Add your agent r
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,flask,postgres,aws,docker,git,github,vercel&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,react,android,docker,git,github,postgres,aws,vercel&perline=11)](https://skillicons.dev)
 
 </div>
 
-*Python · PyTorch · Flask · PostgreSQL · AWS · Docker · Git · GitHub · Vercel*
+**Languages:** Python · Java · C · R · Kotlin/Android  
+**Backend:** FastAPI · Flask · Django  
+**Frontend:** React · HTML/CSS/JS  
+**ML & data:** PyTorch · LangChain · Pinecone · pandas · scikit-learn  
+**Infra & tools:** Docker · PostgreSQL · Git · Vercel · AWS  
+
+---
+
+## Education & experience
+
+| Where | What |
+|-------|------|
+| **Technion** | Information Systems — algorithms, DB, distributed systems, Android/IoT, NLP, statistics (R), ML |
+| **Northeastern** | Data Science / CS — DS4400, IS4200 (IR/embeddings), CS4100 |
 
 ---
 
@@ -74,6 +99,7 @@ AI agent / autonomous agent project—one of my main focuses. *(Add your agent r
 |------|-----|
 | **LinkedIn** | [linkedin.com/in/ofek-fuchs-a0713525a](https://www.linkedin.com/in/ofek-fuchs-a0713525a) |
 | **GitHub** | [github.com/ofekfuchs](https://github.com/ofekfuchs) |
+| **Portfolio (all projects)** | [github.com/ofekfuchs/portfolio](https://github.com/ofekfuchs/portfolio) |
 
 ---
 
