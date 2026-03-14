@@ -2,7 +2,7 @@
 
 # Hi, I'm Ofek
 
-**Developer** · Building and shipping software
+**Software Developer** · Machine learning, deep learning & building systems that ship
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ofekfuchs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofek-fuchs-a0713525a)
@@ -13,7 +13,26 @@
 
 ## About me
 
-I build and ship software. This is where I keep my code and projects—feel free to reach out or connect.
+I build software with a focus on **machine learning** and **deep learning**—from retrieval-augmented generation (RAG) and NLP to automation and web applications. I work with embeddings, vector databases, and LLMs to turn ideas into deployable systems, and I enjoy writing clear code and documentation. This profile is where I keep my projects and contributions; feel free to explore or connect.
+
+---
+
+## Featured project
+
+**[TED Talk RAG](https://github.com/ofekfuchs/ted-talk-rag)** — An AI-powered knowledge base over TED Talks using **Retrieval-Augmented Generation (RAG)**. It uses text embeddings and a vector store (Pinecone) to retrieve relevant talk chunks, then an LLM to answer questions from the dataset. Includes a Flask API and a live web UI deployed on Vercel.
+
+[![Live demo](https://img.shields.io/badge/demo-Live%20app-0A0A0A?style=for-the-badge&logo=vercel)](https://ted-talk-rag-coral.vercel.app) · [![Repository](https://img.shields.io/badge/code-Repository-0A0A0A?style=for-the-badge&logo=github)](https://github.com/ofekfuchs/ted-talk-rag)
+
+| [![ted-talk-rag](https://github-readme-stats.vercel.app/api/pin/?username=ofekfuchs&repo=ted-talk-rag&theme=default&show_owner=true)](https://github.com/ofekfuchs/ted-talk-rag) |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+**Why it stands out:** End-to-end RAG pipeline (preprocessing, chunking, embeddings, vector DB, query engine), configurable prompts and retrieval, and a deployed app so you can try it without running code locally.
+
+---
+
+## Other projects
+
+- **[linkedin-ds-scraper](https://github.com/ofekfuchs/linkedin-ds-scraper)** — Automated collector for Data Scientist job postings in Israel from LinkedIn, with CSV storage and a web dashboard (Flask, scheduled runs).
 
 ---
 
@@ -21,7 +40,7 @@ I build and ship software. This is where I keep my code and projects—feel free
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,aws,git,github,js&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,aws,git,github&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -58,7 +77,6 @@ I build and ship software. This is where I keep my code and projects—feel free
 |------|-----|
 | **LinkedIn** | [linkedin.com/in/ofek-fuchs-a0713525a](https://www.linkedin.com/in/ofek-fuchs-a0713525a) |
 | **GitHub** | [github.com/ofekfuchs](https://github.com/ofekfuchs) |
-
 
 ---
 
